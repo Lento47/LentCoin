@@ -1,0 +1,20 @@
+{
+  "name": "OuroSphere",
+  "symbol": "ORS",
+  "description": "A futuristic token for intergalactic transactions.",
+  "image": "https://raw.githubusercontent.com/Lento47/LentCoin/refs/heads/main/NWOTOKEN.webp",
+  "attributes": [
+    { "trait_type": "Origin", "value": "Andromeda" },
+    { "trait_type": "Energy Level", "value": "High" }
+  ],
+  "external_url": "https://example.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Lento47/LentCoin/refs/heads/main/NWOTOKEN.webp",
+        "type": "image/png"
+      }
+    ],
+    "category": "token"
+  }
+}
